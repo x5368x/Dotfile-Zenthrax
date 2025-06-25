@@ -13,7 +13,7 @@
 &ensp;[<kbd> <br> Wiki <br> </kbd>](https://github.com/gh0stzk/dotfiles/wiki)&ensp;
 <br><br><br></div>
 
-https://github.com/user-attachments/assets/3eaae1e2-04dc-4a9b-8c91-139f85f5fb9e
+
 
 <br>
 
